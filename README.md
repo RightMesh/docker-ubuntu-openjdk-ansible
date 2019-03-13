@@ -17,7 +17,7 @@ sudo make [all]
 Using the Images
 ----------------
 
-Currently, there are pre-built images on [DockerHub](https://cloud.docker.com/repository/docker/rightmesh/ubuntu-openjdk-ansible/general). Check for the current version by tag.
+Currently, there are pre-built images on [DockerHub](https://hub.docker.com/r/rightmesh/ubuntu-openjdk-ansible). Check for the current version by tag.
 
 ```
 docker pull rightmesh/ubuntu-openjdk-ansible:{CURRENT_VERSION}
